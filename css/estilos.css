@@ -1,0 +1,80 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    color: #807276;
+}
+
+/* Estilo para imagenes y fondo de base */
+#fotoDePerfil {
+    width: 15%;
+    margin: 0.2rem;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 4px;
+    padding: 0px;
+    width: 150px;
+}
+
+.iconos {
+    width: 2%
+}
+
+.barraProgresoEspañol {
+    width: 100px;
+}
+
+.barraProgresoIngles {
+    width: 70px;
+}
+
+.barraProgresoPortugues {
+    width: 50px;
+}
+
+.barraProgresoGuarani {
+    width: 85px;
+}
+
+#presentación {
+    background-color: #6b5554;
+    margin: 0px;
+    padding: 20px;
+
+}
+
+#contenedor_lateral {
+    background-color: #edbdbb;
+    
+}
+
+h1 {
+    color: #edbdbb;
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: right;
+    margin-right: 0.5rem;
+}
+
+h2 {
+    color: #dad7d7;
+    font-size: 1rem;
+    font-style: italic;
+    border-bottom: groove #dad7d7;
+    text-align: right;
+    margin-left: 10rem;
+    margin-right: 0.5rem;
+}
+
+
+
+
+
+
+footer {
+    border-top: groove #dad7d7;
+    border-bottom: groove #dad7d7;
+    text-align: center;
+}
+/* footer img {
+    width: 100%;
+    
+max-width: 100%; height: auto; 
+} */
