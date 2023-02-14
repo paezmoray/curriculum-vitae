@@ -11,8 +11,6 @@
     border-radius: 4px;
     padding: 0px;
     width: 150px;
-    position: relative;
-    /* top: 3rem; left: 1rem; */
 }
 
 .iconos {
@@ -21,18 +19,30 @@
 
 .barraProgresoEspañol {
     width: 100px;
+    position: relative;
+    left: 5rem;
+    bottom: 3.8rem;
 }
 
 .barraProgresoIngles {
     width: 70px;
+    position: relative;
+    left: 5rem;
+    bottom: 5.8rem;
 }
 
 .barraProgresoPortugues {
     width: 50px;
+    position: relative;
+    left: 5rem;
+    bottom: 5.8rem;
 }
 
 .barraProgresoGuarani {
     width: 85px;
+    position: relative;
+    left: 5rem;
+    bottom: 6.3rem;
 }
 
 /* Titulo - Encabezado */
@@ -104,6 +114,19 @@ section h3 {
     font-weight: bold;
 }
 
+.idiomaI {
+    position: relative;
+    bottom: 3rem;
+}
+.idiomaP {
+    position: relative;
+    bottom: 3.5rem;
+}
+.idiomaG {
+    position: relative;
+    bottom: 3rem;
+}
+
 
 /* Cuerpo principal centro-derecho */
 #cuerpo_cv {
@@ -169,6 +192,4 @@ footer {
 
 .grid-item4 {
     grid-area: footer;
-} 
-
-
+}
