@@ -13,6 +13,20 @@
     width: 150px;
 }
 
+.boton {
+    background-color: #edbdbb;
+    border-color: #edbdbb;
+    color: white;
+    margin: 5px;
+}
+
+.botonB {
+    background-color: white;
+    border-color: white;
+    color: #5a484d;
+    margin: 5px;
+}
+
 .iconos {
     width: 1rem;
 }
