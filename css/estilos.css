@@ -163,6 +163,7 @@ footer {
     padding: 5px;
 }
 
+
 /* Grid para estructurar */
 
 .grid-container {
@@ -171,6 +172,7 @@ footer {
         'header header header header header'
         'lateral derecha derecha derecha derecha'
         'footer footer footer footer footer';
+        overflow-x: hidden;
 }
 
 .grid-item1 {
